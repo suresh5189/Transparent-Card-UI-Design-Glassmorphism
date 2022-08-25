@@ -1,2 +1,2 @@
 ------------ Transparent Card UI Design / Glassorphism ----------------- </br>
-Check it out here :- https://htmlpreview.github.io/?https://github.com/suresh5189/Transparent-Card-UI-Design-Glassmorphism/blob/master/Glassmorphism.html
+Check it out here :- https://suresh5189.github.io/Transparent-Card-UI-Design-Glassmorphism/
